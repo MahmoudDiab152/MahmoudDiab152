@@ -12,5 +12,5 @@
 - **Tools:** Git, SQL Server, Visual Studio  
 
 ## 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-diab-tech/)  
-- [Email](mailto:mahmouddiab152@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Diab-blue)](https://www.linkedin.com/in/mahmoud-diab-tech/)  
+- [![Email](https://img.shields.io/badge/Email-mahmouddiab152%40gmail.com-red)](mailto:mahmouddiab152@gmail.com)  
